@@ -4,10 +4,10 @@ type: project
 image: images/zoo.jpeg
 title: Honolulu Zoo Volunteer
 permalink: projects/zoo
-date: 2019-2020
+date: 2019
 labels:
-  - Java
-  - Video Games
+  - Volunteer
+  - Communication
 summary: I volunteered at the Honolulu Zoo. 
 ---
 
