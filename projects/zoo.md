@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/zoo.jpeg
+image: images/zoo.jpg
 title: Honolulu Zoo Volunteer
 permalink: projects/zoo
 date: 2019
