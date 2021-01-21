@@ -1,7 +1,6 @@
 ---
 layout: essay
 type: essay
-published: true
 title: The Future
 date: 2021-01-21
 labels:
