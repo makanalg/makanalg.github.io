@@ -9,7 +9,7 @@ labels:
  - Javascript
 ---
 
-<img class="ui image" src="/images/jsimg.png">
+<img class="ui image" src="/images/jsimg.jpg">
 
 ## Simple yet Effective
 Javascript seems to be much less restrictive than other languages. It seems very intuitive, and I have enjoyed learning about it so far. Many of the Javascript basics were very similar to that of other common languages. The main difference, however, came with the introduction of ES6. It was very different from what I was used to but in a good way. Features such as let and const, rest and spread, template strings, and destructuring are what made Javascript stand out to me. Having more flexibility and options on what you can do with a language allows you to be less limited and therefore accomplish more. I feel Javascript is an excellent language from a software engineering perspective since it seems so effective yet simple. 
