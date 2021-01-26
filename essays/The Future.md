@@ -7,6 +7,7 @@ labels:
  - Software Engineering
  - Learning
 ---
+<img class="ui image" src="/images/futureimg.png">
 ## Importance
 The world of software engineering is continuously evolving. It’s the future, and it’s all around us. The possibilities are endless with software, which is why it’s so interesting to me. I plan to expand my knowledge surrounding software engineering to develop software of my own one day. Software can be used to make life easier, it can be used to accomplish difficult tasks that we may not have been able to achieve without it, and it can make things much more convenient.
 
