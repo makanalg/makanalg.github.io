@@ -4,9 +4,8 @@ type: essay
 title: Asking the Right Way
 date: 2021-01-28
 labels:
- - Software Engineering
+ - Asking
  - Learning
- - Javascript
 ---
 
 <img class="ui medium right floated rounded image" src="/images/questions.jpeg">
