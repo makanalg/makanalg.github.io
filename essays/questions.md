@@ -9,7 +9,7 @@ labels:
  - Javascript
 ---
 
-<img class="ui image" src="/images/questions.jpeg">
+<img class="ui medium right floated rounded image" src="/images/questions.jpeg">
 
 ## It doesn’t hurt to ask.. if you do it right
 We live in a world where we have access to a plethora of information online. We can learn almost anything we want on the internet, for free. If you ask someone a question that you could've quickly figured out through a simple google search, that person may be reluctant to help you. You must display effort rather than seeming like you want to be spoon-fed answers. When it comes to software engineering, having questions is inevitable. You must ask questions the "smart" way so that you prevent annoying others by seeming lazy or uneducated. 
