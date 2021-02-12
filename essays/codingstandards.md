@@ -9,7 +9,7 @@ labels:
  - Coding Standards
 ---
 
-<img class="ui image" src="/images/codingstandards.jpeg">
+<img class="ui medium right floated rounded image" src="/images/questions.jpeg">
 
 ## Why Standards
 Standards are essential to have in many aspects of life, from business to projects. It allows for clarity and ensures that everyone is on the same page. It isn't much different in the coding world. Coding standards are a common coding style that ensures clarity in the code, making it much more readable. The importance of having readable code is an entirely different story for another time, but essentially readable code makes it feasible for other programmers to deal with your code (whether it be updating your code, fixing errors, etc.). The best part of it all is that it's very simple to follow a coding standard. Thankfully, there are so many resources out there that can help us with almost any problem, including coding. There are many various programs and tools out there that can enforce coding standards within code. 
