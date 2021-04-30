@@ -24,4 +24,10 @@ Listed below are simplified definitions of some of the most common design patter
 -  **Front Controller**: All requests handled by a single handler then send to separate appropriate handlers. 
 
 ## Using the "tools" (design patterns)
-I've recently been working on a [web development project](https://easy-chef.github.io), and my team members and I have incorporated a few different design patterns into our project. 
+I've recently been working on a [web development project](https://easy-chef.github.io), and my team members and I have incorporated a few different design patterns into our project thus far. 
+- Prorotype: Javascript "classes" are examples of prototypes. 
+- Publish-Subscribe: Used [meteor](https://docs.meteor.com/api/pubsub.html) to publish and subscribe to data/collections. 
+- MVC: Model: MongoDB (collection classes), View: React, Controller: ReactRouter.
+- Front Controller: Meteor/React for startup method.
+- Singleton: MongoDB collections, one instance of each collection class that is used throughout the program.
+- Factory: MongoDB collection schemas.
