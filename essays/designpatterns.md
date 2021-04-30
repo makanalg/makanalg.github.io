@@ -16,7 +16,7 @@ You can't really go wrong with having extra tools in your tool belt. It allows y
 Listed below are simplified definitions of some of the most common design patterns:
 -  Singleton, MVC, Observer, Factory, Publish-Subscribe, Prototype, Front Controller
 -  **Singleton**: Makes sure that only a *single* object of a class is created.
--  **MVC**:
+-  **MVC**: A way to manage your program in 3 different parts. *M*odel (the data or input), *V*iew (presentation of the data or output), *C*ontroller (the logic).
 -  **Observer**: Dependents (or *observers*) of objects knows when the object state changes.
 -  **Factory**: Create an object without exposing any of the logic used to create the object. 
 -  **Publish-Subscribe**:
