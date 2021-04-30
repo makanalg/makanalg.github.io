@@ -19,6 +19,6 @@ Listed below are simplified definitions of some of the most common design patter
 -  **MVC**: A way to manage your program in 3 different parts. *M*odel (the data or input), *V*iew (presentation of the data or output), *C*ontroller (the logic).
 -  **Observer**: Dependents (or *observers*) of objects knows when the object state changes.
 -  **Factory**: Create an object without exposing any of the logic used to create the object. 
--  **Publish-Subscribe**:
+-  **Publish-Subscribe**: Similar to *observer* except in observer the object and its dependents (or *observers*) are aware of eachother, whereas with Pub-Sub they are not. Which means that with Pub-Sub, publishers dont send information to specific subscribers. 
 -  **Prototype**: Create an object based on an existing object by copying.
--  **Front Controller**:
+-  **Front Controller**: All requests handled by a single handler then send to separate appropriate handlers. 
