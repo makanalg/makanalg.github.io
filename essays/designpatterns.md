@@ -19,7 +19,7 @@ Listed below are simplified definitions of some of the most common design patter
 -  **MVC**: A way to manage your program in 3 different parts. *M*odel (the data or input), *V*iew (presentation of the data or output), *C*ontroller (the logic).
 -  **Observer**: Dependents (or *observers*) of objects knows when the object state changes.
 -  **Factory**: Create an object without exposing any of the logic used to create the object. 
--  **Publish-Subscribe**: Similar to *observer* except in observer the object and its dependents (or *observers*) are aware of each other, whereas with Pub-Sub they are not. Basically, with Pub-Sub, publishers don't send information to specific subscribers. 
+-  **Publish-Subscribe**: Similar to *observer* except in observer, the object and its dependents (or *observers*) are aware of each other, whereas with Pub-Sub they are not. Basically, with Pub-Sub, publishers don't send information to specific subscribers. 
 -  **Prototype**: Create an object based on an existing object by copying.
 -  **Front Controller**: All requests are handled by a single handler then sent to separate appropriate handlers. 
 
@@ -31,3 +31,6 @@ I've recently been working on a [web development project](https://easy-chef.gith
 - Front Controller: Meteor/React for startup method.
 - Singleton: MongoDB collections, one instance of each collection class that aere used throughout the program.
 - Factory: MongoDB collection schemas.
+
+## Design patterns are your friend... sometimes
+From what i've heard, there are many people who don't know what design patterns are. If you're reading this, it means that you're already one step ahead. I think that it's important to be familiar with what design patterns are and how they are used, but not to focus too much on trying to implement every single design pattern you've ever heard of in hopes that it would improve your program. Again, design patterns can be very useful *if used correctly in the correct circumstance*. In fact, if you're anything like me, you'd have used design patterns throughout your programming journey without even knowing!
