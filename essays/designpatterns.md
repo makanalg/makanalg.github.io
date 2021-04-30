@@ -7,9 +7,9 @@ labels:
  - Design Patterns
 ---
 
-<img class="ui image" src="/images/uiframeworks.png">
+<img class="ui image" src="/images/designpatterns.png">
 
 ## Design Patterns??
--
+What is design patterns?
 
 ## My experience so far
