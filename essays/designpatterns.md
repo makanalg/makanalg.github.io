@@ -34,3 +34,5 @@ I've recently been working on a [web development project](https://easy-chef.gith
 
 ## Design patterns are your friend... sometimes
 From what i've heard, there are many people who don't know what design patterns are. If you're reading this, it means that you're already one step ahead. I think that it's important to be familiar with what design patterns are and how they are used, but not to focus too much on trying to implement every single design pattern you've ever heard of in hopes that it would improve your program. Again, design patterns can be very useful *if used correctly in the correct circumstance*. In fact, if you're anything like me, you'd have used design patterns throughout your programming journey without even knowing!
+
+
