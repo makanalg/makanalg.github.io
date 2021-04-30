@@ -22,3 +22,6 @@ Listed below are simplified definitions of some of the most common design patter
 -  **Publish-Subscribe**: Similar to *observer* except in observer the object and its dependents (or *observers*) are aware of eachother, whereas with Pub-Sub they are not. Which means that with Pub-Sub, publishers dont send information to specific subscribers. 
 -  **Prototype**: Create an object based on an existing object by copying.
 -  **Front Controller**: All requests handled by a single handler then send to separate appropriate handlers. 
+
+## Using the "tools" (design patterns)
+I've recently been working on a [web development project](https://easy-chef.github.io), and my team members and I have incorporated a few different design patterns into our project. 
