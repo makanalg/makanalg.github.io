@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Design Patterns
+title: Design Pattern Toolkit
 date: 2021-04-29
 labels:
  - Design Patterns
