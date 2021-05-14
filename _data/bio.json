@@ -103,10 +103,12 @@
   ],
   "awards": [
     {
-      "title": "TBA"
-      "date": "",
-      "awarder": "",
-      "summary": "",
+       "name": "TBA",
+      "reference": ""
+//      "title": "TBA"
+//      "date": "",
+//      "awarder": "",
+//      "summary": "",
     }
   ],
   "references": [
