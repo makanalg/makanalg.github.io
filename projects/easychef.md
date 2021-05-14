@@ -44,6 +44,7 @@ Before:
 
 After:
 <img class="ui image" src="/images/echome.png">
+<img class="ui image" src="/images/echome2.png">
 
 ## Takeaways
 I learned a lot.
