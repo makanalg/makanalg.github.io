@@ -48,4 +48,4 @@ After:
 
 ## Reflection
 This was my first time developing a website, and it definitely won't be my last. I learned a lot through the seemingly short amount of time working on this project.
-My team and I met twice a week for about an hour over a span of about a month. We all had clear goals and we all made sure that we did our part in contributing to this project. The most challenging part about this project for me was working with a database (mongoDB). This project helped to strengthen my web development skills and I look forward to more projects like this in the future. 
+My team and I met twice a week for about an hour over a span of about a month. We all had clear goals and we all made sure that we did our part in contributing to this project. The most challenging part about this project for me was working with a database (mongoDB). This project was a great opportunity to work with GitHub, JavaScript, HTML, CSS, Semantic UI React and Meteor. This project helped to strengthen my web development skills and I look forward to more projects like this in the future. 
