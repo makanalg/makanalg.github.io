@@ -47,4 +47,4 @@ After:
 <img class="ui image" src="/images/echome2.png">
 
 ## Takeaways
-I learned a lot.
+This was my first time developing a website, and it definitely won't be my last. I learned a lot through the seemingly short time of working on this project. 
