@@ -77,14 +77,15 @@
   ],
   "work": [
     {
-      "company": "TBA",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-      ]
+      "company": "TBA"
+//      "company": "TBA",
+//      "position": "",
+//      "website": "",
+//      "startDate": "",
+//     "endDate": "",
+//      "summary": "",
+//      "highlights": [
+//      ]
     }
   ],
   "volunteer": [
@@ -103,8 +104,7 @@
   ],
   "awards": [
     {
-      "name": "TBA",
-      "reference": ""
+      "title": "TBA"
 //      "title": "TBA"
 //      "date": "",
 //      "awarder": "",
