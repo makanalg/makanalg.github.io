@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/witchgame.png
+image: images/easychef.png
 title: Easy Chef
 permalink: projects/easychef
 date: 2021
