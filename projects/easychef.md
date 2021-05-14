@@ -38,6 +38,11 @@ The View Vendors Page allow anyone visiting the site to view a list of certified
 
 ### Visual Updates Implementation
 After receiving community feedback about the home page of our website being plain, I decided to update the overall visuals of the site. I changed the colors to be more visually appealing, modified the NavBar selection, and added more to the home page. 
+
+Before:
+<img class="ui image" src="/images/ecoriginal.png">
+
+After:
 <img class="ui image" src="/images/echome.png">
 
 ## Takeaways
