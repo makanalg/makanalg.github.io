@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/easychef.png
+image: images/ecthumbnail.png
 title: Easy Chef
 permalink: projects/easychef
 date: 2021
